@@ -5,7 +5,7 @@
 #
 Name     : perl-ExtUtils-CChecker
 Version  : 0.11
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/ExtUtils-CChecker-0.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/ExtUtils-CChecker-0.11.tar.gz
 Summary  : 'configure-time utilities for using C headers,'
